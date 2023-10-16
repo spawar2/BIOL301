@@ -1,20 +1,16 @@
 [# BIOL301 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-biol620)
 
-Youtube Teaching Channel: https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV
+[Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 
+[Data analysis:](https://youtu.be/WIvehDeVRak)
+[Data analysis:](https://youtu.be/dhIjTt26YKQ)
 
-Data analysis:
+[T Test:](https://youtu.be/sIpMsN90Dt8)
 
-https://youtu.be/WIvehDeVRak
+[Anova:](https://youtu.be/Z-S4CfsRHA0)
 
-https://youtu.be/dhIjTt26YKQ
+[Correlation:](https://youtu.be/yndToTyudUQ)
 
-T Test: https://youtu.be/sIpMsN90Dt8
+[Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
-Anova: https://youtu.be/Z-S4CfsRHA0
-
-Correlation: https://youtu.be/yndToTyudUQ
-
-Descriptive Statistics: https://youtu.be/09SCdQPVShU
-
-Github: https://github.com/spawar2/STAT302
+[Github:](https://github.com/spawar2/STAT302)
