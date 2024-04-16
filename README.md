@@ -1,4 +1,4 @@
-Learning Objectives [# BIOL301 4 Credits Applied Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-biol620)
+Learning Objectives [# BIOL301 4 Credits Applied Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-biol620) Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types, distribution properties, discrete & continuous types, R functions, ANOVA, T-test, correlation, chi-Square, regression, etc.) 
 
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 
