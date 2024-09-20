@@ -23,5 +23,5 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 
 
 Aug 20.Rd, Aug 23.Rd, Aug 27.Rd, Aug-25.Rd: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
-Sep 8.Rd, Sep1.Rd, sep 3.Rd: Phylogenetics tree analysis and plotting. function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table)
+Sep 8.Rd, Sep1.Rd, sep 3.Rd: Phylogenetics tree analysis and plotting. selected function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table)
 
