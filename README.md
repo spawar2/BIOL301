@@ -4,6 +4,7 @@ Date created/updated: December, 9, 2024.
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Data analysis:](https://youtu.be/WIvehDeVRak)
 [Data analysis:](https://youtu.be/dhIjTt26YKQ)
+![download](https://github.com/user-attachments/assets/36a4f648-e35c-4b40-9f05-375205576e79)
 
 [T Test:](https://youtu.be/sIpMsN90Dt8)
 
