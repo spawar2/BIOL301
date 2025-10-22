@@ -1,16 +1,23 @@
 # Author: Pawar, Date: Sep 8 2021, Purpose: To read the phyolgenetic tree from a sample text file
 
+# Load phylogenetic packages
 library(ape)
 library(phangorn)
 library(phytools)
 library(geiger)
+
+# Create Dummy string data and create tree
 text.string <- "(((((((cow, pig),whale),(bat,(lemur,human))),(robin,iguana)),coelacanth),gold_fish),shark);" 
 vert.tree<-read.tree(text=text.string)
+
+# Plot the data phylogram
 plot(vert.tree,no.margin=TRUE,edge.width=2)
 roundPhylogram(vert.tree)
 plot(unroot(vert.tree),type="unrooted",no.margin=TRUE,lab4ut="axial", edge.width=2)
 str(vert.tree)
 vert.tree$tip.label
+
+Set working directory and write the tree
 setwd("/Users/yalegenomecenter/Desktop")
 write.tree(vert.tree,file="example.txt") 
 
