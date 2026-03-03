@@ -9,7 +9,7 @@ https://www.claflin.edu/docs/default-source/academic-affairs-student-services/20
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-biology
 https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [T Test:](https://youtu.be/sIpMsN90Dt8)
-
+Student Evaluations (2021-2026): https://www.claflin-computation.com/_files/ugd/81dd80_ae28e89ed22e41c39513d1764b5c9628.pdf
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
 
 [Correlation:](https://youtu.be/yndToTyudUQ)
