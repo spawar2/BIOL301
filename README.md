@@ -24,7 +24,7 @@ Student Evaluations (2021-2026): https://www.claflin-computation.com/_files/ugd/
 STAT 341 (3 credit) Spring 2023 (20 students) *Graduate Class (Masters & Ph.D. Level). https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science  ^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6), United States of America (USA).
-
+https://www.claflin.edu/DivisionofAcademicAffairs/schools-departments/school-of-natural-sciences-and-mathematics/department-of-biology/bioinformatics
 
 Aug 20.Rd, Aug 23.Rd, Aug 27.Rd, Aug-25.Rd: Microarray datasets reading, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
 Sep 8.Rd, Sep1.Rd, sep 3.Rd: Phylogenetics tree analysis and plotting. selected function(chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table, head(), table()). RNA sequencing analysis, database submission, parallel computing, Blast, Alignment Gaps.Phylogenetic-Analysis.R
